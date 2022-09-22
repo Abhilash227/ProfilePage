@@ -2,7 +2,7 @@ body,li,ul{
  margin:0px auto;
 }
 body{
- background-color:#3498DB;
+ background-color:#e5b8ff;
  width:100%;
  font-family:sans-serif;
 }
@@ -14,7 +14,7 @@ header{
 }
 nav{
  width:100%;
- border-top:5px solid #3498DB;
+ border-top:5px solid #cd34db;
 }
 nav ul{
  float:left;
